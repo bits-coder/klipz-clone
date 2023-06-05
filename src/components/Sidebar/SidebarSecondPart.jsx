@@ -40,9 +40,9 @@ const SubscriptionItem = () => {
   return (
     <SidebarMenuItem onClick={() => setIsSidebarDrawerOpen(false)}>
       <StyledListItemAvatar>
-        <StyledAvatar>C</StyledAvatar>
+        <StyledAvatar>B</StyledAvatar>
       </StyledListItemAvatar>
-      <ListItemText primary="coding-guy" />
+      <ListItemText primary="Barunt IT Solutions" />
     </SidebarMenuItem>
   )
 }
